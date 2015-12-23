@@ -26,6 +26,6 @@ class SteamAuthServiceProvider extends ServiceProvider
      */
     public function provides()
     {
-        return ['steamlogin'];
+        return ['steamauth'];
     }
 }
