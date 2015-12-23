@@ -12,8 +12,8 @@
         "guzzlehttp/guzzle": "^6.1"
     },
     "autoload": {
-	"psr-4": {
-	    "Reflex\\SteamAuth\\": "src/SteamAuth"
-	}
+    	"psr-4": {
+    	    "Reflex\\SteamAuth\\": "src/SteamAuth"
+    	}
     }
 }
