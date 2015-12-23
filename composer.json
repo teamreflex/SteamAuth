@@ -1,0 +1,19 @@
+{
+    "name": "team-reflex/steam-auth",
+    "description": "Steam Authentication for use with the Laravel framework.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "David Cole",
+            "email": "david@team-reflex.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.1"
+    },
+    "autoload": {
+	"psr-4": {
+	    "Reflex\\SteamAuth\\": "src/SteamAuth"
+	}
+    }
+}
