@@ -2,6 +2,8 @@
 
 Provides Steam OAuth authentication. Includes Laravel Service Provider and Facade.
 
+**Deprecated:** Use socialiteproviders/steam.
+
 ### Use with Laravel
 
 To use the Service Provider and Facade, make sure you add the following in your `config/app.php`:
